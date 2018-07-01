@@ -1,4 +1,4 @@
-# Salesforce Custom Content Block SDK - Sitecore Mock up
+# Salesforce Custom Content Block SDK - AEM Mock up
 
 ## Changelog:
 - v1: 	Draft project skeleton
@@ -7,7 +7,7 @@
 
 
 ## Introduction:
-Hi my name is Chun Tat (CT), Solution Engineer in covering Asia markets. If you're here, it means that you're interested to get Sitecore content blocks into your Email Studio Editor. Do note that you will also need to create an Installed Package in your MC Account and a new Heroku project to host this.
+Hi my name is Chun Tat (CT), Solution Engineer in covering Asia markets. If you're here, it means that you're interested to get AEM content blocks into your Email Studio Editor. Do note that you will also need to create an Installed Package in your MC Account and a new Heroku project to host this.
 
 For more information, visit: https://developer.salesforce.com/docs/atlas.en-us.mc-app-development.meta/mc-app-development/content-sdk.htm
 
